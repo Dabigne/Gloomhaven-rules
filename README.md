@@ -8,7 +8,7 @@ Les cartes brulées sont les cartes qui ne peuvent plus être utilisées lors de
 Durant un repos long le joueur peut choisir:
 - Ne pas bruler de carte et ne pas gagner  les deux points de vie.
 - Bruler une carte de son choix et gagner les deux points de vie.
-Quoi qu'il arrive le joueur un-tap les équipements qu'il avait utilisé avant son repos long.
+>Quoi qu'il arrive le joueur un-tap les équipements qu'il avait utilisé avant son repos long.
 
 ## Repos court
 Durant un repos court le joueur choisi la carte qu'il veut bruler
